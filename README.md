@@ -1,3 +1,3 @@
 # arun-demo
-this is my first repository
-.author-arun jain
+This is my first repository.<br>
+author-arun jain
